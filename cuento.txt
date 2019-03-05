@@ -3,4 +3,6 @@ Cuento de blanca nieves y los 7 enanitos
 Los nombres de los 7 enanitos eran los siguientes: 
 Para esta versión tendran los nombres de los días de la semana
 Lunes, martes, miercoles, jueves, viernes, sabados y domingos.
-O que me recomiendan
+O que me recomiendan?
+Los sietes del arco iris
+O que lleven como nombre las 7 maravillas del mundo
