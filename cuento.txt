@@ -1,4 +1,5 @@
 Cuento de blanca nieves y los 7 enanitos
 
 Los nombres de los 7 enanitos eran los siguientes: 
-- Pastor
+Para esta versión tendran los nombres de los días de la semana
+Lunes, martes, miercoles, jueves, viernes, sabados y domingos.
