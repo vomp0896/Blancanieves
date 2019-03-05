@@ -1,5 +1,6 @@
 Cuento de blanca nieves y los 7 enanitos
 
+<<<<<<< HEAD
 Los nombres de los 7 enanitos eran los siguientes:
  
 Gruñón, Tímido, Dormilón, Mudito, Feliz, Sabio y Mocoso. 
@@ -7,3 +8,10 @@ Gruñón, Tímido, Dormilón, Mudito, Feliz, Sabio y Mocoso.
 
 
 
+=======
+Los nombres de los 7 enanitos eran los siguientes: 
+- Pastor
+O que me recomiendan?
+Los sietes del arco iris
+O que lleven como nombre las 7 maravillas del mundo
+>>>>>>> 9a37d6d64a69481b176facb30f12c74a2f226ed2
